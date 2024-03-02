@@ -1,0 +1,7 @@
+C:\Users\fusion\Documents\TesteSistema\TesteSistema\TesteSistema\obj\Release\net6.0\PubTmp\Out\TesteSistema.exe
+C:\Users\fusion\Documents\TesteSistema\TesteSistema\TesteSistema\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\fusion\Documents\TesteSistema\TesteSistema\TesteSistema\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\fusion\Documents\TesteSistema\TesteSistema\TesteSistema\obj\Release\net6.0\PubTmp\Out\TesteSistema.dll
+C:\Users\fusion\Documents\TesteSistema\TesteSistema\TesteSistema\obj\Release\net6.0\PubTmp\Out\TesteSistema.deps.json
+C:\Users\fusion\Documents\TesteSistema\TesteSistema\TesteSistema\obj\Release\net6.0\PubTmp\Out\TesteSistema.runtimeconfig.json
+C:\Users\fusion\Documents\TesteSistema\TesteSistema\TesteSistema\obj\Release\net6.0\PubTmp\Out\TesteSistema.pdb
